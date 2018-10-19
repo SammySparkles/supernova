@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Supernova - Counter-Culture</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="spn.css">
+</head>
+<body>
+<div class="spn">
+<div class="logo">
+SUPERNOVA
+</div>
+<div class="sub">
+An end to the tyranny of ignorance.
+</div>
+</div>
+<div class="quote-box">
+<div class="quote">
+We cannot rest while the ignorant control our lives
+</div>
+<div class="quote">
+We cannot rest while bigotry stifles diversity
+</div>
+<div class="quote">
+We cannot rest while nature is left to die
+</div>
+<div class="quote">
+We cannot rest while we settle for mediocrity
+</div>
+</div>
+</body>
+</html>

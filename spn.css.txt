@@ -1,0 +1,8 @@
+<style>
+.spn{
+text-align: center;
+}
+.quote-box{
+display: flex;
+}
+</style>
