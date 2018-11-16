@@ -11,7 +11,7 @@
 SUPERNOVA
 </div>
 <div class="sub">
-An end to the tyranny of ignorance.
+An end to the tyranny of  ignorance.
 </div>
 </div>
 <div class="quote-box">
